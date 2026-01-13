@@ -10,7 +10,9 @@ Athisoft builds modern applications and creates simple, practical learning resou
 - Course creation & teaching  
 
 ## 🛠️ Tech Stack
-Kotlin • Java • HTML • JavaScript • TypeScript • React • Tailwind CSS • Laravel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,html,js,ts,react,tailwind,laravel" />
+</p>
 
 ## 🎓 Focus
 Clean code, modern practices, and beginner-friendly learning.

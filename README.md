@@ -6,7 +6,7 @@ Athisoft builds modern applications and creates simple, practical learning resou
 
 ## 🚀 What We Do
 - Android & web development  
-- UI-focused frontend work  
+- UI focused frontend work  
 - Course creation & teaching  
 
 ## 🛠️ Tech Stack

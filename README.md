@@ -1,66 +1,57 @@
-Athisoft
-Software Development • Android • Web • Education
+# Athisoft
+
+### Software Development • Android • Web • Education
 
 Athisoft builds modern applications and creates practical learning resources for developers.
 We focus on clean UI, reliable code, and easy-to-understand teaching.
 
-🚀 What We Do
+---
 
-Android application development
+## 🚀 What We Do
+- Android application development
+- Modern web development
+- UI-focused frontend work
+- Course creation & technical teaching
+- Beginner-friendly projects
 
-Modern web development
+---
 
-UI-focused frontend work
+## 🛠️ Tech Stack
 
-Course creation & technical teaching
+**Android**
+- Kotlin
+- Java
 
-Beginner-friendly projects
+**Web**
+- HTML
+- JavaScript
+- TypeScript
+- React.js
+- Tailwind CSS
 
-🛠️ Tech Stack
+---
 
-Android
-
-Kotlin
-
-Java
-
-Web
-
-HTML
-
-JavaScript
-
-TypeScript
-
-React.js
-
-Tailwind CSS
-
-🎓 Teaching
-
+## 🎓 Teaching
 We create structured courses and learning content focused on:
+- Real-world projects
+- Clear explanations
+- Practical skills
 
-Real-world projects
+---
 
-Clear explanations
+## 🌱 Focus
+- Clean and maintainable code
+- Modern development practices
+- Simple learning for complex topics
 
-Practical skills that matter
+---
 
-🌱 Focus
+## 🤝 Open to
+- Open-source contributions
+- Educational collaborations
+- Project partnerships
 
-Clean and maintainable code
+---
 
-Modern development practices
-
-Simple learning for complex topics
-
-🤝 Open to
-
-Open-source contributions
-
-Educational collaborations
-
-Project partnerships
-
-⭐ Build. Learn. Grow.
-Athisoft
+⭐ Build. Learn. Grow.  
+**Athisoft**

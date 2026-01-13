@@ -23,7 +23,7 @@ I build modern Android and web applications and create simple, practical learnin
 ---
 
 ## 🎓 Focus
-Clean code, modern development practices, and beginner-friendly learning.
+Clean code, modern development practices, and beginner friendly learning.
 
 ---
 

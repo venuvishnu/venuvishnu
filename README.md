@@ -1,16 +1,66 @@
-## Hi there 👋
+Athisoft
+Software Development • Android • Web • Education
 
-<!--
-**athisoft/athisoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Athisoft builds modern applications and creates practical learning resources for developers.
+We focus on clean UI, reliable code, and easy-to-understand teaching.
 
-Here are some ideas to get you started:
+🚀 What We Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Android application development
+
+Modern web development
+
+UI-focused frontend work
+
+Course creation & technical teaching
+
+Beginner-friendly projects
+
+🛠️ Tech Stack
+
+Android
+
+Kotlin
+
+Java
+
+Web
+
+HTML
+
+JavaScript
+
+TypeScript
+
+React.js
+
+Tailwind CSS
+
+🎓 Teaching
+
+We create structured courses and learning content focused on:
+
+Real-world projects
+
+Clear explanations
+
+Practical skills that matter
+
+🌱 Focus
+
+Clean and maintainable code
+
+Modern development practices
+
+Simple learning for complex topics
+
+🤝 Open to
+
+Open-source contributions
+
+Educational collaborations
+
+Project partnerships
+
+⭐ Build. Learn. Grow.
+Athisoft

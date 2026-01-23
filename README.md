@@ -9,8 +9,8 @@ I build modern Android and web applications and create simple, practical learnin
 
 ## 🚀 What I Do
 - Android & web application development  
-- UI-focused frontend work  
-- Full-stack project building  
+- UI focused frontend work  
+- Full stack project building  
 - Course creation & technical teaching  
 
 ---
